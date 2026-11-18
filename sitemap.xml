@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ilefoastro.github.io/ilefoastro-site/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://ilefoastro.github.io/ilefoastro-site/Ilefoastro_Fact_Sheet.pdf</loc>
+    <lastmod>2026-11-18</lastmod>
   </url>
   <url>
     <loc>https://ilefoastro.github.io/ilefoastro-site/lookbook/</loc>
@@ -22,10 +26,4 @@
     <image:image><image:loc>https://ilefoastro.github.io/ilefoastro-site/lookbook/img/look-12.jpg</image:loc></image:image>
     <image:image><image:loc>https://ilefoastro.github.io/ilefoastro-site/lookbook/img/look-13.jpg</image:loc></image:image>
     <image:image><image:loc>https://ilefoastro.github.io/ilefoastro-site/lookbook/img/look-14.jpg</image:loc></image:image>
-    <image:image><image:loc>https://ilefoastro.github.io/ilefoastro-site/lookbook/img/look-15.jpg</image:loc></image:image>
-    <image:image><image:loc>https://ilefoastro.github.io/ilefoastro-site/lookbook/img/look-16.jpg</image:loc></image:image>
-    <image:image><image:loc>https://ilefoastro.github.io/ilefoastro-site/lookbook/img/look-17.jpg</image:loc></image:image>
-    <image:image><image:loc>https://ilefoastro.github.io/ilefoastro-site/lookbook/img/look-18.jpg</image:loc></image:image>
-    <image:image><image:loc>https://ilefoastro.github.io/ilefoastro-site/lookbook/img/look-19.jpg</image:loc></image:image>
-  </url>
-</urlset>
+    <image:image>
